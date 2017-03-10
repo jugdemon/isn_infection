@@ -4,7 +4,7 @@
 \alias{identify_vaccination_targets}
 \title{Identify Vaccination Targets}
 \usage{
-identify_vaccination_targets(centrality_measure, data, network.size)
+identify_vaccination_targets(centrality_measure, data, network.size, treatments)
 }
 \arguments{
 \item{centrality_measure}{an igraph centrality measure}
